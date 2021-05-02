@@ -1,7 +1,8 @@
 # CoreLibraries kütüphaneler denemek için oluşturulmuş bir projedir.
 
 ## Kullanılmış Kütüphaneler
-- Hangifre
+- Hangfire
+  Asp.Net Core Mvc projesinde kullanıcı üye olduğunda(test olarak) eposta göndermek ve kullanıcı bir resim yükledikten 5 saniye sonra resime yazı ekleme işlemi yapan bir örnek yapılmıştır.  
 
 ## Kullanılacak Kütüphaneler
 - Automapper
